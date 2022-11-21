@@ -1,19 +1,7 @@
-# films
+# Movies
+- [DEMO LINK](https://basil-panasiuk.github.io/films/)
 
-## Project setup
+## Run locally
+- npm i
+- npm run serve
 ```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
